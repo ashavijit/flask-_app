@@ -1,0 +1,4 @@
+1) flask 
+2) flask_sqlalchemy 
+3) sqlite3 
+4) requests  
